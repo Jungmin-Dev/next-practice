@@ -1,3 +1,5 @@
+출처 : https://www.youtube.com/watch?v=pdWQvfQBSGg - [Youtube] Next JS 실습 강좌! React를 더욱 편리하게 SEO - 데브리
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
